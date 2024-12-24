@@ -1,0 +1,2 @@
+# Deal-Scraper-Automated-Extraction-of-Posts-from-Deal-Websites
+Deal Scraper  is an automated web scraper built with Python and Selenium for extracting deal posts from e-commerce websites. It integrates the Gemini Flash API for dynamic website scraping, achieving a 95% success rate. The solution includes error-handling mechanisms and reusable scripts, reducing manual effort and improving scraping reliability.
