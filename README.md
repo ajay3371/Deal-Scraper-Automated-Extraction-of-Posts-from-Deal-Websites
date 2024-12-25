@@ -1,7 +1,7 @@
 Here's an extraordinary README.md file based on your Deal Scraper project description:
 
 ```markdown
-# Deal Scraper (Infosys Internship) 🚀
+
 
 ## Project Overview
 
